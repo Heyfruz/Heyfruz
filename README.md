@@ -11,6 +11,9 @@
 - React Native
 - MobX
 - Zustand
+- Redux
+- NodeJS
+- Kotlin
 - Mobile UI design & Prototyping
 
 <!---
